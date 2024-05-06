@@ -1,0 +1,35 @@
+.first h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50;
+    color: white;
+}
+
+.first p {
+    font-size: 16;
+    color: aquamarine;
+}
+
+.second h1 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42;
+    color: white;
+}
+
+.second p {
+    font-family: Verdana;
+    font-size: 21;
+    color: gray;
+}
+
+.third p {
+    font-family: Verdana;
+    text-align: right;
+    color: gray;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
